@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Asfawg
 - 👀 I’m interested in ...Machine Learning, AI, Deep Learning, Data science , Information  Science
-- 🌱 I’m currently Studying ... Information Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying ... Information Science
+- 💞️ I’m looking to collaborate on ... Applied  Machine Learning Projects
 - 📫 How to reach me ...asfawg@gmail.com
 
 <!---
